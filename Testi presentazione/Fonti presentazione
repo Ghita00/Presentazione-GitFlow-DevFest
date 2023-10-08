@@ -1,14 +1,21 @@
 Questo documento contine tutte le fonti da cui abbiamo tratto per realizzare la presentazione
 
 Step 1: Presentazioni e Cos'è bacaro tech
+nessuna
 
 Step 2: Contesto dell'argomento
+- Flusso di lavoro di Gitflow: https://www.atlassian.com/it/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=Che%20cos
+- Cos'è l'implementazione continua?: https://www.ibm.com/it-it/topics/continuous-deployment#:~:text=La%20fornitura%20continua%20%C3%A8%20una,di%20test%20simili%20alla%20produzione.
 
 Step 3: Analisi di gitflow
+- GitFlow workflow tutorial italiano: https://www.youtube.com/watch?v=nWNQgPqxqJA
+- Gitflow on GitHub: How to use Git Flow workflows with GitHub-based repositori: https://www.youtube.com/watch?v=WQuxeEvaCxs
 
 Step 4: Pregi e difetti
+- Git Flow Is A Bad Idea: https://www.youtube.com/watch?v=_w6TwnLCFwA&t=223s
 
 Step 5: Alternative basate sui difetti
+- 4 branching workflows for Git: https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf
 
 Step 6: Numeri di versione di un software
 
