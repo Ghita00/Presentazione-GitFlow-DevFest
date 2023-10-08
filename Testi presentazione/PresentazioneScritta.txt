@@ -1,6 +1,9 @@
 Questo documento contine lo script per la presentazione power point che verrà mostrato
 
 Step 1: Presentazioni e Cos'è bacaro tech
+Buongiorno a tutti, sono Giorgio Basile, sviluppatore full stack da un anno e lavoro presso Almaviva Digital Tech. Quest'oggi ho deciso di portarvi un
+talk su gitflow, una metodologia per la gestione dei nostri repository, andando a mantenere delle proprietà che vedremo successivamente. Ma prima
+vi rubo 2 minuti del vostro tempo per parlarvi di bacarotech.
 
 Step 2: Contesto dell'argomento
 
