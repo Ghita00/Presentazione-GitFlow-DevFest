@@ -5,6 +5,14 @@ Buongiorno a tutti, sono Giorgio Basile, sviluppatore full stack da un anno e la
 talk su gitflow, una metodologia per la gestione dei nostri repository, andando a mantenere delle proprietà che vedremo successivamente. Ma prima
 vi rubo 2 minuti del vostro tempo per parlarvi di bacarotech.
 
+Bacaro tech è un'inziativa che ha lo scopo di avvicinare le persone incuriosite al mondo del tech e del coding, senza spiegoni troppo complicati, e 
+di fornire delle informazioni utili o svecchiare certi argomenti a coloro che ci bazzicano già da anni in questo nostro universo.
+Potete trovarci su instagram come @bacarotech23
+Inoltre questa presentazione è anche sul nostro github: https://github.com/BacaroTech
+Per coloro che vogliono recuperare questa presentazione o altre che abbiamo fatto potete recuperarle tutte all'interno del github.
+In particolare questa presentazione è stata pensata per essere sviluppata come un progetto che usa la metodologia gitFlow, anche se quest'ultima 
+si riferische a progetti di coding e non si applica bene a progetti differenti.  
+
 Step 2: Contesto dell'argomento
 
 Step 3: Analisi di gitflow
