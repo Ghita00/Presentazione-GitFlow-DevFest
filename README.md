@@ -2,6 +2,7 @@
 Questa repository ha lo scopo di contenere tutti i documenti, immagini e presentazioni necessari per l'esposizione che si terrà il 2 dicembre al devfest, oltre ad essere un esempio concreto di cosa sia la medotologia git flow. 
 
 Se voi vi recate a questo indirizzo, potrete vedere come si applicano i concetti discussi all'interno della presentazione ad un progetto vero: https://github.com/BacaroTech/Presentazione-GitFlow-DevFest/network.
+Oppure scaricando il plugin di google per visulizzare i commit come un albero: https://chrome.google.com/webstore/detail/le-git-graph-commits-grap/joggkdfebigddmaagckekihhfncdobff
 
 Per domande o dubbi potete scrivere a:
 bacarotech@gmail.com
